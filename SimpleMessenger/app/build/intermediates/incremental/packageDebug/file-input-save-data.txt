@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sun Feb 05 14:42:18 EST 2017
+2.base=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+count=7
+0.file=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+5.base=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+6.base=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/akshadha/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+0.set=ANDROID_RESOURCE
